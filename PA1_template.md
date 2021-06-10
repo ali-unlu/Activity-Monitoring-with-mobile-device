@@ -1,11 +1,4 @@
----
-title: "Peer Assignment"
-author: "Ali Unlu"
-date: "6/9/2021"
-output: 
-  html_document: 
-    keep_md: yes
----
+
 # Data loading 
 
 
